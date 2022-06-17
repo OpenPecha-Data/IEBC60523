@@ -1,0 +1,48 @@
+id: IEBC60523
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T14:15:44.721618'
+last_modified: '2022-06-17T14:15:44.721647'
+parser: null
+source_metadata:
+  title: Sixteen Arhats
+  language: bo
+  description: 'A selection of texts related to the Sixteen Arhats or Sixteen Elders
+    (ṣoḍaśa sthavirāḥ; Tib. gnas brtan bcu drug):'
+  volume:
+    f4790:
+      title: A Brief Practice of Paying Homage and Making Offerings to the Sixteen
+        Elders
+      base_file: f4790.txt
+      order: 1
+      parent: Practices
+    fBCC4:
+      title: 'The Heart of Wish-Fulfilling Jewels: A Brief Practice for Paying Homage
+        and Making Offerings to the Buddha together with his retinue of Arhats'
+      base_file: fBCC4.txt
+      order: 2
+      parent: Practices
+    f9235:
+      title: A Practice of Paying Homage and Making Offerings to the Sixteen Elders
+      base_file: f9235.txt
+      order: 3
+      parent: Practices
+    f7D70:
+      title: A Brief Practice for Paying Homage and Making Offerings to the Buddha
+        together with his retinue of Arhats
+      base_file: f7D70.txt
+      order: 4
+      parent: Practices
+    f2B4A:
+      title: Supplication to Lord Buddha together with the Sixteen Arhats
+      base_file: f2B4A.txt
+      order: 5
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
